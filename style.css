@@ -1,0 +1,17 @@
+body{
+    color: rgb(26, 26, 236);
+
+
+}.container{
+    border: 20px;
+    background-color: black;
+    border-color: #23860a;
+    margin: 20px;
+    padding: 10px;
+}.name{
+    color: aliceblue;
+    text-align: center;
+}.profile_picture{
+    width: 400px;
+    height: 500px;
+}
